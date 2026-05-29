@@ -26,8 +26,7 @@
         },
         "sockopt": {
           "tcpFastOpen": true,
-          "tcpNoDelay": true,
-          "mark": 255
+          "tcpNoDelay": true
         }
       }
     }
